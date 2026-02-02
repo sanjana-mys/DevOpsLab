@@ -1,3 +1,3 @@
 a = 5
-b = 3a
+b = 3a shettyyy
 print(a + b)
